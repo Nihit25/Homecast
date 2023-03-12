@@ -150,19 +150,6 @@
       </div>
     </form>
     <input type="file" id="ctrl" webkitdirectory directory multiple />
-    <script>
-      let x = 1,
-        f = 1;
-      document.querySelector("#imp").addEventListener("click", function (e) {
-        e.preventDefault();
-        const container = document.querySelector(".dirname");
-        const direc = document.querySelector("#folderinput").value;
-        const ele = document.createElement("div");
-        ele.classList.add(`folder${x}`);
-        ele.innerHTML = direc;
-        container.prepend(ele);
-        x++;
-      });
-    </script>
+   
   </body>
 </html>
