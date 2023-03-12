@@ -19,7 +19,7 @@ Node.js
 
 Libraries used are:Express
 
-Packages used are:nodemon
+Packages used are:nodemon(optional)
 
 Local setup:
 \
