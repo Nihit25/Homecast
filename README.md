@@ -1,6 +1,6 @@
 # Homecast
 HomeCast is a media server application that allows you to organize and stream your media files from any directory of your system.
-\
+
 ## Screenshots:
 
 ### Videos streamed from directory:
