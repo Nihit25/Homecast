@@ -28,6 +28,19 @@ Libraries used are:Express
 Packages used are:nodemon
 
 Local setup:
+\
+1] Open this folder in  a code editor.
+\
+2] Open the terminal
+\
+3] Enter the command npm init
+\
+4] Enter the command npm install express
+\
+5] Enter the command node index.js
+\
+6] Open any browser and write localhost:4000 or 127.0.0.1:4000
+
 
 Team Members:
       \
