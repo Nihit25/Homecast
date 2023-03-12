@@ -15,7 +15,9 @@ It also Persist watch history.You can see a list of directories from where you h
 
  #### Features Implemented:
 Fronted Features:
+\
 1] Html,CSS
+\
 2] Bootstrap-Used mainly for building Card templates
 
 Backend Features:
