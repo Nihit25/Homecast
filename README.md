@@ -6,7 +6,7 @@ Screenshots:
 
 Videos streamed from directory:
 
-![Screenshot homecast](https://user-images.githubusercontent.com/114798928/224530933-0ba3b360-0604-4343-b176-8e682386aa78.png)
+
 
 Persistent Watch history:
 
