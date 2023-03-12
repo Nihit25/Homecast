@@ -30,9 +30,9 @@ Local setup:
 Team Members:
 
       Name            Roll-Number
-      
-1] Apoorv Jain        2021IMT-015
-
-2] Hardik Mehta       2021IMT-039
-
-3] Nihit Moolaney     2021IMT-069
+      \
+1] Apoorv Jain  --      2021IMT-015
+ \
+2] Hardik Mehta   --    2021IMT-039
+\
+3] Nihit Moolaney  --   2021IMT-069
