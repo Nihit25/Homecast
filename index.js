@@ -9,7 +9,8 @@ const { dirname } = require("path");
 const { CLIENT_RENEG_LIMIT } = require("tls");
 app.use(bp.json());
 app.use(bp.urlencoded({ extended: true }));
-//
+
+
 // app.use(express.static("public"));
 let fileInsideDirectory = fs.readdirSync(directory);
 
