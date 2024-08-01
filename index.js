@@ -44,6 +44,7 @@ app.get("/new", (req, res) => {
 
   //adding those videos into a container
   let dataa2 = videosContainer.replace(/{%VIDEOS%}/g, dataa);
+  
   //adding that container to main file
   let dataa3 = main.replace(/{%VIDEOS%}/g, dataa2);
   // console.log(dataa2);
