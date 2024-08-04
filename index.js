@@ -56,6 +56,7 @@ app.get("/new", (req, res) => {
 app.post("/enterFolder", (req, res) => {
   console.log(req.body);
   let x = req.body;
+  
   // console.log(x.folder);
   let y = x.folder;
   console.log(y);
